@@ -1,0 +1,14 @@
+{
+  "name": "arinashi",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "bulma": "^0.7.1",
+    "vue": "^2.5.17",
+    "vue-loader": "14.2.2",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}

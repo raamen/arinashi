@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  restaurant: one
+  when: MyString
+  rate: one
+  comment: MyText
+
+two:
+  user: two
+  restaurant: two
+  when: MyString
+  rate: two
+  comment: MyText
